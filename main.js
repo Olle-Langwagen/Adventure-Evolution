@@ -1,5 +1,5 @@
 // Startkapital
-let resources = 1000000000000
+let resources = 0
 let incomeMultiplier = 1;
 
 const clickSound = new Audio('clicksound.mp3');
